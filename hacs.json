@@ -1,0 +1,5 @@
+{
+  "name": "turn_off_frame",
+  "render_readme": true,
+  "iot_class": "local_polling"
+}
